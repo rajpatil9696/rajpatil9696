@@ -23,5 +23,4 @@
 
 ## 📫 Connect with Me
  -Gmail: raajpatil9696@gmail.com
-- GitHub: https://github.com/rajpatil9696
 - linkdin: https://www.linkedin.com/in/raj-patil-908603290/

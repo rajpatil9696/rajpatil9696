@@ -24,3 +24,7 @@
 ## 📫 Connect with Me
  -Gmail: raajpatil9696@gmail.com
 - linkdin: https://www.linkedin.com/in/raj-patil-908603290/
+
+## 📊 GitHub Stats
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajpatil9696&show_icons=true&theme=radical)
+
